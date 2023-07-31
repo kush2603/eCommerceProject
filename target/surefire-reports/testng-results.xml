@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[opening flipkart]]>
+    </line>
+    <line>
+      <![CDATA[opening myntra]]>
+    </line>
+    <line>
+      <![CDATA[opening amazon]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-31T14:17:51 IST" name="Suite" finished-at="2023-07-31T14:18:12 IST" duration-ms="20889">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T14:17:51 IST" name="Test" finished-at="2023-07-31T14:18:12 IST" duration-ms="20889">
+      <class name="eCommerceProject.Flipkart">
+        <test-method signature="flipkartTest()[pri:0, instance:eCommerceProject.Flipkart@6580cfdd]" started-at="2023-07-31T14:17:51 IST" name="flipkartTest" finished-at="2023-07-31T14:17:58 IST" duration-ms="7178" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- eCommerceProject.Flipkart -->
+      <class name="eCommerceProject.Myntra">
+        <test-method signature="myntraTest()[pri:0, instance:eCommerceProject.Myntra@635eaaf1]" started-at="2023-07-31T14:17:58 IST" name="myntraTest" finished-at="2023-07-31T14:18:06 IST" duration-ms="7741" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening myntra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myntraTest -->
+      </class> <!-- eCommerceProject.Myntra -->
+      <class name="eCommerceProject.Amazon">
+        <test-method signature="amazonTest()[pri:0, instance:eCommerceProject.Amazon@5c30a9b0]" started-at="2023-07-31T14:18:06 IST" name="amazonTest" finished-at="2023-07-31T14:18:12 IST" duration-ms="5907" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- eCommerceProject.Amazon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
