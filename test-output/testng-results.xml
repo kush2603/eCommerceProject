@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[opening flipkart]]>
+    </line>
+    <line>
+      <![CDATA[opening myntra]]>
+    </line>
+    <line>
+      <![CDATA[opening amazon]]>
+    </line>
+    <line>
+      <![CDATA[opening lifestyle]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-31T20:16:38 IST" name="Suite" finished-at="2023-07-31T20:17:24 IST" duration-ms="46349">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T20:16:38 IST" name="Test" finished-at="2023-07-31T20:17:24 IST" duration-ms="46349">
+      <class name="eCommerceProject.Flipkart">
+        <test-method signature="flipkartTest()[pri:0, instance:eCommerceProject.Flipkart@36bc55de]" started-at="2023-07-31T20:16:38 IST" name="flipkartTest" finished-at="2023-07-31T20:16:53 IST" duration-ms="15238" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- eCommerceProject.Flipkart -->
+      <class name="eCommerceProject.Myntra">
+        <test-method signature="myntraTest()[pri:0, instance:eCommerceProject.Myntra@3febb011]" started-at="2023-07-31T20:16:53 IST" name="myntraTest" finished-at="2023-07-31T20:17:08 IST" duration-ms="14381" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening myntra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myntraTest -->
+      </class> <!-- eCommerceProject.Myntra -->
+      <class name="eCommerceProject.Amazon">
+        <test-method signature="amazonTest()[pri:0, instance:eCommerceProject.Amazon@10e31a9a]" started-at="2023-07-31T20:17:08 IST" name="amazonTest" finished-at="2023-07-31T20:17:15 IST" duration-ms="7223" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- eCommerceProject.Amazon -->
+      <class name="eCommerceProject.lifestyle">
+        <test-method signature="lifestyleTest()[pri:0, instance:eCommerceProject.lifestyle@131774fe]" started-at="2023-07-31T20:17:15 IST" name="lifestyleTest" finished-at="2023-07-31T20:17:24 IST" duration-ms="9422" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening lifestyle]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- lifestyleTest -->
+      </class> <!-- eCommerceProject.lifestyle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

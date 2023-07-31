@@ -11,12 +11,12 @@
       <![CDATA[opening amazon]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-31T14:17:51 IST" name="Suite" finished-at="2023-07-31T14:18:12 IST" duration-ms="20889">
+  <suite started-at="2023-07-31T20:08:29 IST" name="Suite" finished-at="2023-07-31T20:09:24 IST" duration-ms="54813">
     <groups>
     </groups>
-    <test started-at="2023-07-31T14:17:51 IST" name="Test" finished-at="2023-07-31T14:18:12 IST" duration-ms="20889">
+    <test started-at="2023-07-31T20:08:29 IST" name="Test" finished-at="2023-07-31T20:09:24 IST" duration-ms="54813">
       <class name="eCommerceProject.Flipkart">
-        <test-method signature="flipkartTest()[pri:0, instance:eCommerceProject.Flipkart@6580cfdd]" started-at="2023-07-31T14:17:51 IST" name="flipkartTest" finished-at="2023-07-31T14:17:58 IST" duration-ms="7178" status="PASS">
+        <test-method signature="flipkartTest()[pri:0, instance:eCommerceProject.Flipkart@63355449]" started-at="2023-07-31T20:08:29 IST" name="flipkartTest" finished-at="2023-07-31T20:08:54 IST" duration-ms="25241" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening flipkart]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- flipkartTest -->
       </class> <!-- eCommerceProject.Flipkart -->
       <class name="eCommerceProject.Myntra">
-        <test-method signature="myntraTest()[pri:0, instance:eCommerceProject.Myntra@635eaaf1]" started-at="2023-07-31T14:17:58 IST" name="myntraTest" finished-at="2023-07-31T14:18:06 IST" duration-ms="7741" status="PASS">
+        <test-method signature="myntraTest()[pri:0, instance:eCommerceProject.Myntra@1ddf84b8]" started-at="2023-07-31T20:08:54 IST" name="myntraTest" finished-at="2023-07-31T20:09:14 IST" duration-ms="20320" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening myntra]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- myntraTest -->
       </class> <!-- eCommerceProject.Myntra -->
       <class name="eCommerceProject.Amazon">
-        <test-method signature="amazonTest()[pri:0, instance:eCommerceProject.Amazon@5c30a9b0]" started-at="2023-07-31T14:18:06 IST" name="amazonTest" finished-at="2023-07-31T14:18:12 IST" duration-ms="5907" status="PASS">
+        <test-method signature="amazonTest()[pri:0, instance:eCommerceProject.Amazon@1139b2f3]" started-at="2023-07-31T20:09:14 IST" name="amazonTest" finished-at="2023-07-31T20:09:24 IST" duration-ms="9184" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening amazon]]>
