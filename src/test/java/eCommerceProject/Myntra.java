@@ -12,6 +12,7 @@ public class Myntra {
 	  Reporter.log("opening myntra", true);
 	  driver.get("https://www.myntra.com/");
 	  Thread.sleep(2000);
+	  driver.manage().window().maximize();
 	  driver.close();
   }
 }
