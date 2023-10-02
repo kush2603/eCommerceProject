@@ -3,6 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
+      <class name="eCommerceProject.MeeShow">
+        <methods>
+          <include name="meeShowTest"/>
+        </methods>
+      </class> <!-- eCommerceProject.MeeShow -->
       <class name="eCommerceProject.Flipkart">
         <methods>
           <include name="flipkartTest"/>

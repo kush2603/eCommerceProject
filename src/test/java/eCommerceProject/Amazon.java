@@ -11,7 +11,7 @@ public class Amazon {
 	  
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("opening amazon", true);
-	  driver.get("https://www.amazon.com/");
+	  driver.get("https://www.amazon.in/");
 	  Thread.sleep(2000);
 	  driver.close();
 	  
